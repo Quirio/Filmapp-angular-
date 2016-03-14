@@ -1,0 +1,96 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\roslyn\csc.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\roslyn\vbc.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\roslyn\VBCSCompiler.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\Filmapp.dll.config
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\Filmapp.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\Filmapp.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\Microsoft.AI.Web.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\Microsoft.ApplicationInsights.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\Microsoft.AI.Web.xml
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\Microsoft.ApplicationInsights.xml
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\obj\Debug\Filmapp.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\obj\Debug\Filmapp.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Filmapp\Filmapp\obj\Debug\Filmapp.pdb
+G:\Filmapp\Filmapp\bin\roslyn\csc.exe
+G:\Filmapp\Filmapp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Filmapp\Filmapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Filmapp\Filmapp\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Filmapp\Filmapp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Filmapp\Filmapp\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Filmapp\Filmapp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Filmapp\Filmapp\bin\roslyn\System.Collections.Immutable.dll
+G:\Filmapp\Filmapp\bin\roslyn\System.Reflection.Metadata.dll
+G:\Filmapp\Filmapp\bin\roslyn\vbc.exe
+G:\Filmapp\Filmapp\bin\roslyn\VBCSCompiler.exe
+G:\Filmapp\Filmapp\bin\roslyn\VBCSCompiler.exe.config
+G:\Filmapp\Filmapp\bin\Filmapp.dll.config
+G:\Filmapp\Filmapp\bin\Filmapp.dll
+G:\Filmapp\Filmapp\bin\Filmapp.pdb
+G:\Filmapp\Filmapp\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Filmapp\Filmapp\bin\Microsoft.AI.DependencyCollector.dll
+G:\Filmapp\Filmapp\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Filmapp\Filmapp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Filmapp\Filmapp\bin\Microsoft.AI.Web.dll
+G:\Filmapp\Filmapp\bin\Microsoft.AI.WindowsServer.dll
+G:\Filmapp\Filmapp\bin\Microsoft.ApplicationInsights.dll
+G:\Filmapp\Filmapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Filmapp\Filmapp\bin\Microsoft.AI.DependencyCollector.xml
+G:\Filmapp\Filmapp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Filmapp\Filmapp\bin\Microsoft.AI.Web.xml
+G:\Filmapp\Filmapp\bin\Microsoft.AI.WindowsServer.xml
+G:\Filmapp\Filmapp\bin\Microsoft.ApplicationInsights.xml
+G:\Filmapp\Filmapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Filmapp\Filmapp\obj\Debug\Filmapp.csprojResolveAssemblyReference.cache
+G:\Filmapp\Filmapp\obj\Debug\Filmapp.dll
+G:\Filmapp\Filmapp\obj\Debug\Filmapp.pdb
+D:\Filmapp\Filmapp\bin\roslyn\csc.exe
+D:\Filmapp\Filmapp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Filmapp\Filmapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Filmapp\Filmapp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Filmapp\Filmapp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Filmapp\Filmapp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Filmapp\Filmapp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Filmapp\Filmapp\bin\roslyn\System.Collections.Immutable.dll
+D:\Filmapp\Filmapp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Filmapp\Filmapp\bin\roslyn\vbc.exe
+D:\Filmapp\Filmapp\bin\roslyn\VBCSCompiler.exe
+D:\Filmapp\Filmapp\bin\roslyn\VBCSCompiler.exe.config
+D:\Filmapp\Filmapp\bin\Filmapp.dll.config
+D:\Filmapp\Filmapp\bin\Filmapp.dll
+D:\Filmapp\Filmapp\bin\Filmapp.pdb
+D:\Filmapp\Filmapp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Filmapp\Filmapp\bin\Microsoft.AI.DependencyCollector.dll
+D:\Filmapp\Filmapp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Filmapp\Filmapp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Filmapp\Filmapp\bin\Microsoft.AI.Web.dll
+D:\Filmapp\Filmapp\bin\Microsoft.AI.WindowsServer.dll
+D:\Filmapp\Filmapp\bin\Microsoft.ApplicationInsights.dll
+D:\Filmapp\Filmapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Filmapp\Filmapp\bin\Microsoft.AI.DependencyCollector.xml
+D:\Filmapp\Filmapp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Filmapp\Filmapp\bin\Microsoft.AI.Web.xml
+D:\Filmapp\Filmapp\bin\Microsoft.AI.WindowsServer.xml
+D:\Filmapp\Filmapp\bin\Microsoft.ApplicationInsights.xml
+D:\Filmapp\Filmapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Filmapp\Filmapp\obj\Debug\Filmapp.csprojResolveAssemblyReference.cache
+D:\Filmapp\Filmapp\obj\Debug\Filmapp.dll
+D:\Filmapp\Filmapp\obj\Debug\Filmapp.pdb

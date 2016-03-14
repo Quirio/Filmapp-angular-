@@ -1,0 +1,24 @@
+﻿<div class="row">
+    <div id="img-film" class="col-sm-6 col-md-4 col-lg-4">
+        <div class="thumbnail">            
+            <img ng-src="https://image.tmdb.org/t/p/w370{{detailsfilms.poster_path}}" />
+            <div class="caption"> 
+                <h3>Details</h3> 
+                <p>
+                    <ul class="list-group">
+                        <li class="list-group-item">Status: {{detailsfilms.status}}</li>
+                        <li class="list-group-item">Release Date: {{detailsfilms.release_date}}</li>
+                        <li class="list-group-item">Genre: <span ng-repeat="gen in detailsfilms.genres"> {{gen.name}} </span></li>
+                        <li class="list-group-item">Vote Average: {{detailsfilms.vote_average}} <span class="glyphicon glyphicon-star" aria-hidden="true"></span> </li>
+                    </ul>
+                </p> 
+            </div>
+         </div>
+    </div>
+    <div id="info-film" class="col-sm-6 col-md-8 col-lg-8">
+        <h3>{{detailsfilms.original_title}}</h3>  
+        <div class="well">
+            {{detailsfilms.overview}}
+        </div>
+    </div>
+</div>
