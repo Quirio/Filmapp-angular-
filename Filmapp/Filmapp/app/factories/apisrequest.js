@@ -17,9 +17,9 @@
 
 
         function getpopularfilms() {
-
+            var deferred = $q.defer();
             if(!cache.get("popularfilm")){
-                var deferred = $q.defer();
+               
 
                 $http({
                     method: 'GET',
@@ -33,39 +33,38 @@
                     deferred.reject(response.data);
                 });
 
-                return deferred.promise;
             }
 
             else
-                return cache.get("popularfilm");
+                deferred.resolve(cache.get("popularfilm"));
+
+            return deferred.promise;
         }
 
         function getdetailsfilms(filmid) {
-            if (!cache.get("detailsfilm") && cache.get("detailsfilm")) {
-                var deferred = $q.defer();
-
+            var deferred = $q.defer();
+            if (!cache.get("detailsfilm") || cache.get("detailsfilm").id != filmid) {
                 $http({
                     method: 'GET',
                     url: 'http://api.themoviedb.org/3/movie/'+ filmid +'?api_key=ce20301f40c96f2c3093691c6a1ecb8c',
                     cache: false,
                 }).then(function success(response) {
-                    cache.put('popularfilm', response.data);
+                    cache.put('detailsfilm', response.data);
                     console.log(response.data);
                     deferred.resolve(response.data);
                 }, function error(response) {
                     deferred.reject(response.data);
-                });
-
-                return deferred.promise;
+                });               
             }
 
             else
-                return cache.get("popularfilm");
+                deferred.resolve(cache.get("detailsfilm"));
+            return deferred.promise;
 
         }
 
         function getcastfilms(filmid){
-            if (!cache.get("detailsfilm")) {
+           /* if (!cache.get("detailsfilm")) {
                 var deferred = $q.defer();
 
                 $http({
@@ -84,9 +83,9 @@
             }
 
             else
-                return cache.get("popularfilm");
+                return cache.get("popularfilm");*/
 
         }
-        }
+        
     }
 })();

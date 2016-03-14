@@ -7,8 +7,8 @@
     "use strict";
     angular.module('app').controller('filmcastcontroller', filmcastcontroller);
 
-    filmdetailscontroller.$inject = ['$q', '$scope', '$state', '$stateParams', 'apirequest'];
-    function filmdetailscontroller($q, $scope, $state, $stateParams, apirequest) {
+    filmcastcontroller.$inject = ['$q', '$scope', '$state', '$stateParams', 'apirequest'];
+    function filmcastcontroller($q, $scope, $state, $stateParams, apirequest) {
         // <editor-fold desc="Vars">
 
         $scope.castfilms = [];

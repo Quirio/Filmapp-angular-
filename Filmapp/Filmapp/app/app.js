@@ -27,10 +27,10 @@
                     controller: 'filmdetailscontroller'
                 },
 
-                'castview': {
-                    templateUrl: 'app/views/detailsfilm.html',
-                    controller: 'filmcastcontroller'
-                }
+              /*  'castview': {
+                    template: '',
+                    controller: ''
+                }*/
             }
         });
     });
